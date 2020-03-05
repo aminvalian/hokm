@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: a3bb151c608bd1b41b49ac44fb306360
+timeCreated: 1456070020
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: backs_0
+    21300002: backs_1
+    21300004: backs_2
+    21300006: backs_3
+    21300008: backs_4
+    21300010: backs_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: backs_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1488
+        width: 483
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.19452, y: 82.379456}
+        - {x: -56.19452, y: -79.620544}
+        - {x: -55.19452, y: -80.620544}
+        - {x: 57.80548, y: -80.620544}
+        - {x: 57.80548, y: 82.379456}
+    - name: backs_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1488
+        width: 481
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.33014, y: 82.379456}
+        - {x: -56.33014, y: -80.620544}
+        - {x: 56.66986, y: -80.620544}
+        - {x: 56.66986, y: 82.379456}
+    - name: backs_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 754
+        width: 481
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.1621, y: 81.27762}
+        - {x: -56.1621, y: -80.72238}
+        - {x: 56.8379, y: -80.72238}
+        - {x: 56.8379, y: 81.27762}
+    - name: backs_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 754
+        width: 481
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.265305, y: 81.27762}
+        - {x: -56.265305, y: -80.72238}
+        - {x: 56.734695, y: -80.72238}
+        - {x: 56.734695, y: 81.27762}
+    - name: backs_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 481
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.1621, y: 82.30548}
+        - {x: -56.1621, y: -80.69452}
+        - {x: 56.8379, y: -80.69452}
+        - {x: 56.8379, y: 82.30548}
+    - name: backs_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 12
+        width: 483
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.23288, y: 82.30548}
+        - {x: -56.23288, y: -79.69452}
+        - {x: -55.23288, y: -80.69452}
+        - {x: 57.76712, y: -80.69452}
+        - {x: 57.76712, y: 82.30548}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

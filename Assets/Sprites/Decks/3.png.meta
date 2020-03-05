@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 8b6294294ebd27844a658edb5f56b7ae
+timeCreated: 1455900357
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Deck_metal_0
+    21300002: Deck_metal_1
+    21300004: Deck_metal_2
+    21300006: Deck_metal_3
+    21300008: Deck_metal_4
+    21300010: Deck_metal_5
+    21300012: Deck_metal_6
+    21300014: Deck_metal_7
+    21300016: Deck_metal_8
+    21300018: Deck_metal_9
+    21300020: Deck_metal_10
+    21300022: Deck_metal_11
+    21300024: Deck_metal_12
+    21300026: Deck_metal_13
+    21300028: Deck_metal_14
+    21300030: Deck_metal_15
+    21300032: Deck_metal_16
+    21300034: Deck_metal_17
+    21300036: Deck_metal_18
+    21300038: Deck_metal_19
+    21300040: Deck_metal_20
+    21300042: Deck_metal_21
+    21300044: Deck_metal_22
+    21300046: Deck_metal_23
+    21300048: Deck_metal_24
+    21300050: Deck_metal_25
+    21300052: Deck_metal_26
+    21300054: Deck_metal_27
+    21300056: Deck_metal_28
+    21300058: Deck_metal_29
+    21300060: Deck_metal_30
+    21300062: Deck_metal_31
+    21300064: Deck_metal_32
+    21300066: Deck_metal_33
+    21300068: Deck_metal_34
+    21300070: Deck_metal_35
+    21300072: Deck_metal_36
+    21300074: Deck_metal_37
+    21300076: Deck_metal_38
+    21300078: Deck_metal_39
+    21300080: Deck_metal_40
+    21300082: Deck_metal_41
+    21300084: Deck_metal_42
+    21300086: Deck_metal_43
+    21300088: Deck_metal_44
+    21300090: Deck_metal_45
+    21300092: Deck_metal_46
+    21300094: Deck_metal_47
+    21300096: Deck_metal_48
+    21300098: Deck_metal_49
+    21300100: Deck_metal_50
+    21300102: Deck_metal_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Deck_metal_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1475
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.29077, y: 77.423096}
+        - {x: -53.29077, y: -75.576904}
+        - {x: 53.70923, y: -75.576904}
+        - {x: 53.70923, y: 77.423096}
+    - name: Deck_metal_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1475
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.07077, y: 77.423096}
+        - {x: -53.07077, y: -75.576904}
+        - {x: 54.92923, y: -75.576904}
+        - {x: 54.92923, y: 77.423096}
+    - name: Deck_metal_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1475
+        width: 271
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.38153, y: 77.423096}
+        - {x: -53.38153, y: -75.576904}
+        - {x: 54.61847, y: -75.576904}
+        - {x: 54.61847, y: 77.423096}
+    - name: Deck_metal_3
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1475
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.2677, y: 77.423096}
+        - {x: -53.2677, y: -75.576904}
+        - {x: 53.7323, y: -75.576904}
+        - {x: 54.7323, y: -74.576904}
+        - {x: 54.7323, y: 77.423096}
+    - name: Deck_metal_4
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1475
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.44153, y: 77.423096}
+        - {x: -53.44153, y: -75.576904}
+        - {x: 53.55847, y: -75.576904}
+        - {x: 53.55847, y: 77.423096}
+    - name: Deck_metal_5
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1475
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.75232, y: 77.423096}
+        - {x: -52.75232, y: -74.576904}
+        - {x: -51.75232, y: -75.576904}
+        - {x: 53.24768, y: -75.576904}
+        - {x: 54.24768, y: -74.576904}
+        - {x: 54.24768, y: 77.423096}
+    - name: Deck_metal_6
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1475
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.16925, y: 77.423096}
+        - {x: -53.16925, y: -75.576904}
+        - {x: 53.83075, y: -75.576904}
+        - {x: 54.83075, y: -74.576904}
+        - {x: 54.83075, y: 77.423096}
+    - name: Deck_metal_7
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1475
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.2677, y: 77.423096}
+        - {x: -53.2677, y: -75.576904}
+        - {x: 53.7323, y: -75.576904}
+        - {x: 54.7323, y: -74.576904}
+        - {x: 54.7323, y: 77.423096}
+    - name: Deck_metal_8
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1475
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.26001, y: 77.423096}
+        - {x: -53.26001, y: -75.576904}
+        - {x: 53.73999, y: -75.576904}
+        - {x: 53.73999, y: 77.423096}
+    - name: Deck_metal_9
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1475
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.14612, y: 77.423096}
+        - {x: -53.14612, y: -74.576904}
+        - {x: -52.14612, y: -75.576904}
+        - {x: 52.85388, y: -75.576904}
+        - {x: 53.85388, y: -74.576904}
+        - {x: 53.85388, y: 77.423096}
+    - name: Deck_metal_10
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 1472
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.850708, y: 77.241516}
+        - {x: -52.850708, y: -75.758484}
+        - {x: 54.149292, y: -75.758484}
+        - {x: 54.149292, y: 77.241516}
+    - name: Deck_metal_11
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 1472
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.130737, y: 77.241516}
+        - {x: -53.130737, y: -75.758484}
+        - {x: 53.869263, y: -75.758484}
+        - {x: 53.869263, y: 77.241516}
+    - name: Deck_metal_12
+      rect:
+        serializedVersion: 2
+        x: 4897
+        y: 1472
+        width: 271
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.335327, y: 77.241516}
+        - {x: -53.335327, y: -75.758484}
+        - {x: 53.664673, y: -75.758484}
+        - {x: 54.664673, y: -74.758484}
+        - {x: 54.664673, y: 77.241516}
+    - name: Deck_metal_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 998
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.29077, y: 76.55847}
+        - {x: -53.29077, y: -76.44153}
+        - {x: 53.70923, y: -76.44153}
+        - {x: 53.70923, y: 76.55847}
+    - name: Deck_metal_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 998
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.07077, y: 76.55847}
+        - {x: -53.07077, y: -76.44153}
+        - {x: 54.92923, y: -76.44153}
+        - {x: 54.92923, y: 76.55847}
+    - name: Deck_metal_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 998
+        width: 271
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.38153, y: 76.55847}
+        - {x: -53.38153, y: -76.44153}
+        - {x: 54.61847, y: -76.44153}
+        - {x: 54.61847, y: 75.55847}
+        - {x: 53.61847, y: 76.55847}
+    - name: Deck_metal_16
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 998
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.37384, y: 76.55847}
+        - {x: -53.37384, y: -76.44153}
+        - {x: 53.62616, y: -76.44153}
+        - {x: 53.62616, y: 75.55847}
+        - {x: 52.62616, y: 76.55847}
+    - name: Deck_metal_17
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 998
+        width: 271
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.36615, y: 76.55847}
+        - {x: -53.36615, y: -76.44153}
+        - {x: 54.63385, y: -76.44153}
+        - {x: 54.63385, y: 76.55847}
+    - name: Deck_metal_18
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 998
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.039978, y: 76.55847}
+        - {x: -53.039978, y: -76.44153}
+        - {x: 54.960022, y: -76.44153}
+        - {x: 54.960022, y: 76.55847}
+    - name: Deck_metal_19
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 998
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.093872, y: 76.55847}
+        - {x: -53.093872, y: -76.44153}
+        - {x: 53.906128, y: -76.44153}
+        - {x: 53.906128, y: 76.55847}
+    - name: Deck_metal_20
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 998
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.2677, y: 76.55847}
+        - {x: -53.2677, y: -76.44153}
+        - {x: 54.7323, y: -76.44153}
+        - {x: 54.7323, y: 75.55847}
+        - {x: 53.7323, y: 76.55847}
+    - name: Deck_metal_21
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 998
+        width: 271
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.335327, y: 76.55847}
+        - {x: -53.335327, y: -76.44153}
+        - {x: 54.664673, y: -76.44153}
+        - {x: 54.664673, y: 75.55847}
+        - {x: 53.664673, y: 76.55847}
+    - name: Deck_metal_22
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 998
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.25232, y: 76.55847}
+        - {x: -53.25232, y: -76.44153}
+        - {x: 54.74768, y: -76.44153}
+        - {x: 54.74768, y: 76.55847}
+    - name: Deck_metal_23
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 997
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.850708, y: 77.16461}
+        - {x: -52.850708, y: -75.83539}
+        - {x: 54.149292, y: -75.83539}
+        - {x: 54.149292, y: 77.16461}
+    - name: Deck_metal_24
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 997
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.130737, y: 77.16461}
+        - {x: -53.130737, y: -75.83539}
+        - {x: 53.869263, y: -75.83539}
+        - {x: 53.869263, y: 77.16461}
+    - name: Deck_metal_25
+      rect:
+        serializedVersion: 2
+        x: 4897
+        y: 997
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.835327, y: 77.16461}
+        - {x: -52.835327, y: -75.83539}
+        - {x: 54.164673, y: -75.83539}
+        - {x: 54.164673, y: 77.16461}
+    - name: Deck_metal_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 517
+        width: 269
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.29077, y: 77.61847}
+        - {x: -53.29077, y: -76.38153}
+        - {x: 52.70923, y: -76.38153}
+        - {x: 53.70923, y: -75.38153}
+        - {x: 53.70923, y: 77.61847}
+    - name: Deck_metal_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 517
+        width: 270
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.07077, y: 77.61847}
+        - {x: -53.07077, y: -75.38153}
+        - {x: -52.07077, y: -76.38153}
+        - {x: 54.92923, y: -76.38153}
+        - {x: 54.92923, y: 77.61847}
+    - name: Deck_metal_28
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 517
+        width: 271
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.38153, y: 77.61847}
+        - {x: -53.38153, y: -75.38153}
+        - {x: -52.38153, y: -76.38153}
+        - {x: 53.61847, y: -76.38153}
+        - {x: 54.61847, y: -75.38153}
+        - {x: 54.61847, y: 77.61847}
+    - name: Deck_metal_29
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 517
+        width: 270
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.2677, y: 77.61847}
+        - {x: -53.2677, y: -75.38153}
+        - {x: -52.2677, y: -76.38153}
+        - {x: 53.7323, y: -76.38153}
+        - {x: 54.7323, y: -75.38153}
+        - {x: 54.7323, y: 77.61847}
+    - name: Deck_metal_30
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 517
+        width: 270
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.07849, y: 77.61847}
+        - {x: -53.07849, y: 76.61847}
+        - {x: -53.07849, y: -76.38153}
+        - {x: 53.92151, y: -76.38153}
+        - {x: 53.92151, y: 76.61847}
+        - {x: 52.92151, y: 77.61847}
+    - name: Deck_metal_31
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 517
+        width: 270
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.039978, y: 77.61847}
+        - {x: -53.039978, y: -75.38153}
+        - {x: -52.039978, y: -76.38153}
+        - {x: 53.960022, y: -76.38153}
+        - {x: 54.960022, y: -75.38153}
+        - {x: 54.960022, y: 77.61847}
+    - name: Deck_metal_32
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 517
+        width: 269
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.093872, y: 77.61847}
+        - {x: -53.093872, y: 76.61847}
+        - {x: -53.093872, y: -76.38153}
+        - {x: 53.906128, y: -76.38153}
+        - {x: 53.906128, y: 76.61847}
+        - {x: 52.906128, y: 77.61847}
+    - name: Deck_metal_33
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 517
+        width: 270
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.2677, y: 77.61847}
+        - {x: -53.2677, y: -75.38153}
+        - {x: -52.2677, y: -76.38153}
+        - {x: 53.7323, y: -76.38153}
+        - {x: 54.7323, y: -75.38153}
+        - {x: 54.7323, y: 77.61847}
+    - name: Deck_metal_34
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 517
+        width: 271
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.335327, y: 77.61847}
+        - {x: -53.335327, y: -75.38153}
+        - {x: -52.335327, y: -76.38153}
+        - {x: 53.664673, y: -76.38153}
+        - {x: 54.664673, y: -75.38153}
+        - {x: 54.664673, y: 77.61847}
+    - name: Deck_metal_35
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 517
+        width: 270
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.14612, y: 77.61847}
+        - {x: -53.14612, y: 76.61847}
+        - {x: -53.14612, y: -76.38153}
+        - {x: 53.85388, y: -76.38153}
+        - {x: 53.85388, y: 77.61847}
+    - name: Deck_metal_36
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 517
+        width: 269
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.819946, y: 77.61847}
+        - {x: -52.819946, y: 76.61847}
+        - {x: -52.819946, y: -76.38153}
+        - {x: 54.180054, y: -76.38153}
+        - {x: 54.180054, y: 77.61847}
+    - name: Deck_metal_37
+      rect:
+        serializedVersion: 2
+        x: 4490
+        y: 517
+        width: 269
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.130737, y: 77.61847}
+        - {x: -53.130737, y: 76.61847}
+        - {x: -53.130737, y: -76.38153}
+        - {x: 53.869263, y: -76.38153}
+        - {x: 53.869263, y: 76.61847}
+        - {x: 52.869263, y: 77.61847}
+    - name: Deck_metal_38
+      rect:
+        serializedVersion: 2
+        x: 4895
+        y: 517
+        width: 269
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.623047, y: 77.61847}
+        - {x: -52.623047, y: -75.38153}
+        - {x: -51.623047, y: -76.38153}
+        - {x: 54.376953, y: -76.38153}
+        - {x: 54.376953, y: 77.61847}
+    - name: Deck_metal_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 44
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.29077, y: 76.82923}
+        - {x: -53.29077, y: -76.17077}
+        - {x: 53.70923, y: -76.17077}
+        - {x: 53.70923, y: 76.82923}
+    - name: Deck_metal_40
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 44
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.07077, y: 76.82923}
+        - {x: -53.07077, y: -75.17077}
+        - {x: -52.07077, y: -76.17077}
+        - {x: 54.92923, y: -76.17077}
+        - {x: 54.92923, y: 76.82923}
+    - name: Deck_metal_41
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 44
+        width: 271
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.38153, y: 76.82923}
+        - {x: -53.38153, y: 75.82923}
+        - {x: -53.38153, y: -76.17077}
+        - {x: 54.61847, y: -76.17077}
+        - {x: 54.61847, y: 75.82923}
+        - {x: 53.61847, y: 76.82923}
+    - name: Deck_metal_42
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 44
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.7677, y: 76.82923}
+        - {x: -52.7677, y: -76.17077}
+        - {x: 54.2323, y: -76.17077}
+        - {x: 54.2323, y: 76.82923}
+    - name: Deck_metal_43
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 44
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.26001, y: 76.82923}
+        - {x: -53.26001, y: -76.17077}
+        - {x: 53.73999, y: -76.17077}
+        - {x: 53.73999, y: 76.82923}
+    - name: Deck_metal_44
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 44
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.039978, y: 76.82923}
+        - {x: -53.039978, y: -75.17077}
+        - {x: -52.039978, y: -76.17077}
+        - {x: 54.960022, y: -76.17077}
+        - {x: 54.960022, y: 76.82923}
+    - name: Deck_metal_45
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 44
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.85077, y: 76.82923}
+        - {x: -52.85077, y: -76.17077}
+        - {x: 54.14923, y: -76.17077}
+        - {x: 54.14923, y: 76.82923}
+    - name: Deck_metal_46
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 44
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.2677, y: 76.82923}
+        - {x: -53.2677, y: 75.82923}
+        - {x: -53.2677, y: -76.17077}
+        - {x: 54.7323, y: -76.17077}
+        - {x: 54.7323, y: 75.82923}
+        - {x: 53.7323, y: 76.82923}
+    - name: Deck_metal_47
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 44
+        width: 271
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.335327, y: 76.82923}
+        - {x: -53.335327, y: 75.82923}
+        - {x: -53.335327, y: -76.17077}
+        - {x: 54.664673, y: -76.17077}
+        - {x: 54.664673, y: 75.82923}
+        - {x: 53.664673, y: 76.82923}
+    - name: Deck_metal_48
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 44
+        width: 270
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.14612, y: 76.82923}
+        - {x: -53.14612, y: -76.17077}
+        - {x: 53.85388, y: -76.17077}
+        - {x: 53.85388, y: 76.82923}
+    - name: Deck_metal_49
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 50
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.850708, y: 77.19231}
+        - {x: -52.850708, y: -75.80769}
+        - {x: 54.149292, y: -75.80769}
+        - {x: 54.149292, y: 77.19231}
+    - name: Deck_metal_50
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 50
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.343018, y: 77.19231}
+        - {x: -53.343018, y: -75.80769}
+        - {x: 52.656982, y: -75.80769}
+        - {x: 53.656982, y: -74.80769}
+        - {x: 53.656982, y: 77.19231}
+    - name: Deck_metal_51
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 50
+        width: 269
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.65381, y: 77.19231}
+        - {x: -52.65381, y: -75.80769}
+        - {x: 54.34619, y: -75.80769}
+        - {x: 54.34619, y: 77.19231}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

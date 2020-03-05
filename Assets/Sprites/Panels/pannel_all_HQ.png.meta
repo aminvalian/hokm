@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: de9b5a8a318c64a40852a71d0ee3fa3a
+timeCreated: 1456112460
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pannel_all_HQ_25
+    21300002: pannel_all_HQ_26
+    21300004: pannel_all_HQ_27
+    21300006: pannel_all_HQ_28
+    21300008: pannel_all_HQ_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pannel_all_HQ_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1609
+        width: 1202
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 469.85876, y: 84.550415}
+        - {x: 443.85876, y: 109.550415}
+        - {x: -441.14124, y: 109.550415}
+        - {x: -475.14124, y: 75.550415}
+        - {x: -475.14124, y: -150.44958}
+        - {x: 476.85876, y: -150.44958}
+        - {x: 476.85876, y: 76.550415}
+        - {x: 470.85876, y: 82.550415}
+    - name: pannel_all_HQ_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1203
+        width: 1202
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 474.85876, y: 74.57306}
+        - {x: 471.85876, y: 78.57306}
+        - {x: 470.85876, y: 78.57306}
+        - {x: 442.85876, y: 106.57306}
+        - {x: -441.14124, y: 106.57306}
+        - {x: -444.14124, y: 105.57306}
+        - {x: -461.14124, y: 87.57306}
+        - {x: -463.14124, y: 86.57306}
+        - {x: -475.14124, y: 73.57306}
+        - {x: -475.14124, y: -150.42694}
+        - {x: 476.85876, y: -150.42694}
+        - {x: 476.85876, y: 73.57306}
+        - {x: 475.85876, y: 74.57306}
+    - name: pannel_all_HQ_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 794
+        width: 1201
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -445.97888, y: 110.72406}
+        - {x: -474.97888, y: 81.72406}
+        - {x: -474.97888, y: -150.27594}
+        - {x: 472.02112, y: -150.27594}
+        - {x: 473.02112, y: -149.27594}
+        - {x: 473.02112, y: 75.72406}
+        - {x: 438.02112, y: 110.72406}
+    - name: pannel_all_HQ_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 1202
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -441.14124, y: 110.94321}
+        - {x: -475.14124, y: 76.94321}
+        - {x: -475.14124, y: -150.0568}
+        - {x: 476.85876, y: -150.0568}
+        - {x: 476.85876, y: 76.94321}
+        - {x: 442.85876, y: 110.94321}
+    - name: pannel_all_HQ_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 1202
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -442.14124, y: 109.7776}
+        - {x: -475.14124, y: 76.7776}
+        - {x: -475.14124, y: -150.2224}
+        - {x: 476.85876, y: -150.2224}
+        - {x: 476.85876, y: 76.7776}
+        - {x: 443.85876, y: 109.7776}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

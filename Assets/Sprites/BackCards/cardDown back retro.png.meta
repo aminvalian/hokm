@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 3c7700e0e2493e341a68e3d1547d9611
+timeCreated: 1456095590
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cardDown back retro_0
+    21300002: cardDown back retro_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cardDown back retro_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 480
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -225.09091, y: 326.80167}
+        - {x: -227.09091, y: 324.80167}
+        - {x: -227.09091, y: -324.19833}
+        - {x: -225.09091, y: -326.19833}
+        - {x: 225.90909, y: -326.19833}
+        - {x: 227.90909, y: -324.19833}
+        - {x: 227.90909, y: 324.80167}
+        - {x: 225.90909, y: 326.80167}
+    - name: cardDown back retro_1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 13
+        width: 481
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 226.52069, y: 326.80167}
+        - {x: -225.47931, y: 326.80167}
+        - {x: -227.47931, y: 325.80167}
+        - {x: -227.47931, y: -324.19833}
+        - {x: -225.47931, y: -326.19833}
+        - {x: 225.52069, y: -326.19833}
+        - {x: 228.52069, y: -324.19833}
+        - {x: 228.52069, y: 323.80167}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

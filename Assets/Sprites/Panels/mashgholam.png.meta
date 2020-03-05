@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 2b9278a0b82593f4e891300a0ee6dda7
+timeCreated: 1456348642
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mashgholam_0
+    21300002: mashgholam_1
+    21300004: mashgholam_2
+    21300006: mashgholam_3
+    21300008: mashgholam_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mashgholam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2414
+        height: 3603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 180, y: 286}
+        - {x: -181, y: 286}
+        - {x: -192, y: 275}
+        - {x: -192, y: -274}
+        - {x: -180, y: -286}
+        - {x: 178, y: -286}
+        - {x: 192, y: -274}
+        - {x: 192, y: 274}
+    - name: mashgholam_1
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 0
+        width: 2416
+        height: 3603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.8057, y: 286}
+        - {x: -191.8057, y: 274}
+        - {x: -191.8057, y: -273}
+        - {x: -178.8057, y: -286}
+        - {x: 180.1943, y: -286}
+        - {x: 192.1943, y: -274}
+        - {x: 192.1943, y: 275}
+        - {x: 181.1943, y: 286}
+    - name: mashgholam_2
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 0
+        width: 2417
+        height: 3603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -178.77753, y: 286}
+        - {x: -191.77753, y: 273}
+        - {x: -191.77753, y: -272}
+        - {x: -177.77753, y: -286}
+        - {x: 181.22247, y: -286}
+        - {x: 193.22247, y: -274}
+        - {x: 193.22247, y: 275}
+        - {x: 182.22247, y: 286}
+    - name: mashgholam_3
+      rect:
+        serializedVersion: 2
+        x: 7794
+        y: 0
+        width: 2417
+        height: 3603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.15112, y: 286}
+        - {x: -192.15112, y: 273}
+        - {x: -192.15112, y: -272}
+        - {x: -178.15112, y: -286}
+        - {x: 180.84888, y: -286}
+        - {x: 192.84888, y: -274}
+        - {x: 192.84888, y: 275}
+        - {x: 181.84888, y: 286}
+    - name: mashgholam_4
+      rect:
+        serializedVersion: 2
+        x: 10475
+        y: 0
+        width: 2414
+        height: 3603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -177.52466, y: 286}
+        - {x: -190.52466, y: 273}
+        - {x: -190.52466, y: -271}
+        - {x: -187.52466, y: -275}
+        - {x: -184.52466, y: -278}
+        - {x: -183.52466, y: -278}
+        - {x: -175.52466, y: -286}
+        - {x: 182.47534, y: -286}
+        - {x: 193.47534, y: -275}
+        - {x: 193.47534, y: 276}
+        - {x: 183.47534, y: 286}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

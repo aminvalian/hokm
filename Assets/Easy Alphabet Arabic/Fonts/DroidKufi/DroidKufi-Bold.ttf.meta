@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d2eb23ae6c404164f84a5657ea71a85a
+labels:
+- Arabic
+- Font
+- Language
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5d74a0a59ff935e429c327f0ce1318d5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
